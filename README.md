@@ -33,8 +33,8 @@
 1. **Clone Repository**
 
 ```bash
-git clone https://github.com/fikrisuheri/laravel-toko-online-anime-store.git
-cd laravel-toko-online-anime-store
+git clone https://github.com/sycaopath/laravel-e-commerce-anime-marchendise.git
+cd laravel-e-commerce-anime-marchendise
 composer install
 cp .env.example .env
 ```

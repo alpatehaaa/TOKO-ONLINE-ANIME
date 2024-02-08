@@ -86,7 +86,7 @@ Contributions, issues and feature requests di persilahkan.
 
 ## Author
 
-- CREATOR : MUHAMMAD YULKAUTSAR
+- CREATOR : Alfath risqullah, Dedi setiawan, Pitra astaman, Alika rossa febrianti, Viranda salsabillah T, Urba katrunada 
 
 ## Preview
 

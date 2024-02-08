@@ -87,13 +87,13 @@ Contributions, issues and feature requests di persilahkan.
 ## Author
 
 - CREATOR :
-KELAS 06PT5
-Pitra astaman_8020210023
-Dedi setiawan_8020210124
-Viranda salsabilaT_8020210129
-Alika rossa febrianti_8020210162
-Urba katrunada_8020210197
-Alfath risqullah_8020210212 
+KELAS 06PT5, 
+Pitra astaman_(8020210023) 
+Dedi setiawan_(8020210124) 
+Viranda salsabilaT_(8020210129) 
+Alika rossa febrianti_(8020210162) 
+Urba katrunada_(8020210197) 
+Alfath risqullah_(8020210212) 
 
 ## Preview
 

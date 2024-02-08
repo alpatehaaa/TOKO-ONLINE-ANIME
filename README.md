@@ -86,7 +86,14 @@ Contributions, issues and feature requests di persilahkan.
 
 ## Author
 
-- CREATOR : Alfath risqullah, Dedi setiawan, Pitra astaman, Alika rossa febrianti, Viranda salsabillah T, Urba katrunada 
+- CREATOR :
+KELAS 06PT5
+Pitra astaman_8020210023
+Dedi setiawan_8020210124
+Viranda salsabilaT_8020210129
+Alika rossa febrianti_8020210162
+Urba katrunada_8020210197
+Alfath risqullah_8020210212 
 
 ## Preview
 

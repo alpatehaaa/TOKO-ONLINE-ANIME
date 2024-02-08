@@ -33,7 +33,7 @@
 1. **Clone Repository**
 
 ```bash
-git clone https://github.com/sycaopath/laravel-e-commerce-anime-marchendise.git
+[https://github.com/sycaopath/laravel-e-commerce-anime-marchendise.git](https://github.com/SYCAOPATH/laravel-e-commerce-anime-marchendise)
 cd laravel-e-commerce-anime-marchendise
 composer install
 cp .env.example .env
